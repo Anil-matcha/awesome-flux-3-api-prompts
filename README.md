@@ -5,6 +5,11 @@ Here is an example [output](https://github.com/Anil-matcha/AI-B-roll/blob/main/f
 
 If you wish to add AI b-roll automatically with api, here is one https://docs.vadoo.tv/docs/guide/create-ai-captions
 
+## Related Projects
+
+- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Auto-generate viral YouTube Shorts — use B-roll to enhance them
+- [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — Generate full videos from text to accompany your B-roll
+
 ### Tutorial -> https://youtu.be/x34YbMkdPbc
 
 ### Demo
