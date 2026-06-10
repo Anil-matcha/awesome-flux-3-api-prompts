@@ -5,6 +5,14 @@ Here is an example [output](https://github.com/Anil-matcha/AI-B-roll/blob/main/f
 
 If you wish to add AI b-roll automatically with api, here is one https://docs.vadoo.tv/docs/guide/create-ai-captions
 
+<p align="center">
+  <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
+    <img src="https://img.shields.io/badge/Part%20of-Awesome%20Generative%20AI%20Apps-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Awesome Generative AI Apps">
+  </a>
+</p>
+
+> 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
+
 ## Related Projects
 
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Auto-generate viral YouTube Shorts — use B-roll to enhance them
