@@ -20,6 +20,7 @@ FLUX 3 was announced by Black Forest Labs on **July 23, 2026** as a unified mult
 ## Related Projects
 
 - [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — ByteDance Seedance 2.5 API guide and prompt library
+- [flux-3-video-api](https://github.com/SamurAIGPT/flux-3-video-api) — Python wrapper focused on FLUX 3 Text-to-Video and Image-to-Video
 - [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) — the most complete, up-to-date comparison of AI image generation models
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — the most complete, up-to-date comparison of AI video generation models
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source, self-hosted AI image & video generation studio (200+ models, no content filters)
