@@ -1,6 +1,6 @@
-# 🌌 Awesome FLUX 3 — API, Prompts & Complete Guide
+# 🌌 Awesome FLUX 3 — Video & Image API, Prompts & Complete Guide
 
-> The ultimate resource for FLUX 3 — Black Forest Labs' new unified multimodal frontier model for image, video, and audio generation. Covers API integration, prompt engineering, multimodal workflows, and 20+ curated production-ready prompt examples.
+> The ultimate resource for the FLUX 3 video API and image API — Black Forest Labs' new unified multimodal frontier model for text-to-video, image-to-video, image, and native audio generation. Covers API integration, prompt engineering, multimodal workflows, and 20+ curated production-ready prompt examples.
 
 [![FLUX 3](https://img.shields.io/badge/FLUX-3-8b5cf6)](https://bfl.ai/models/flux-3)
 [![Powered by MuAPI](https://img.shields.io/badge/Powered%20by-MuAPI-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGgtMnYtMmg0djZoLTJ6bTAtOFY2aDJ2MmgtMnoiLz48L3N2Zz4=)](https://muapi.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-flux-3)
