@@ -15,6 +15,16 @@ FLUX 3 was announced by Black Forest Labs on **July 23, 2026** as a unified mult
 
 **[→ Get an API key now for FLUX 3 early access](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)**
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=pq0B_A0K770">
+    <img src="docs/assets/flux-3-api-video-thumbnail.png" alt="FLUX 3 API: Image & Video Generation from One Multimodal Model" width="640">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=pq0B_A0K770"><b>📺 FLUX 3 API: Image & Video Generation from One Multimodal Model →</b></a>
+</p>
+
 ---
 
 ## Related Projects
