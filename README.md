@@ -9,11 +9,11 @@
 
 ---
 
-## 🚀 Get Early Access
+## 🚀 Use the FLUX 3 API
 
-FLUX 3 was announced by Black Forest Labs on **July 23, 2026** as a unified multimodal frontier model — the same architecture jointly generates image, video, and native synchronized audio, and extends to action-prediction for robotics. **[MuAPI](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)** is preparing 5 FLUX 3 endpoints and will activate each one automatically for existing API keys as Black Forest Labs opens general availability — no separate waitlist required.
+FLUX 3 was announced by Black Forest Labs on **July 23, 2026** as a unified multimodal frontier model — the same architecture jointly generates image, video, and native synchronized audio, and extends to action-prediction for robotics. Muapi's [FLUX 3 video routes](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3) and [FLUX 3 Klein generation and editing API](https://muapi.ai/flux-klein) are live. The separate flagship FLUX 3 Image, Dev, and Omni variants remain distinct catalog entries; check each page for current availability.
 
-**[→ Get an API key now for FLUX 3 early access](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)**
+**[→ Create an API key for the live FLUX 3 routes](https://muapi.ai/access-keys)** and browse the current [FLUX 3 video API](https://muapi.ai/flux-3) and [FLUX 3 Klein image API](https://muapi.ai/flux-klein).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pq0B_A0K770">
@@ -30,6 +30,7 @@ FLUX 3 was announced by Black Forest Labs on **July 23, 2026** as a unified mult
 ## Related Projects
 
 - [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — ByteDance Seedance 2.5 API guide and prompt library
+- [Flux-Klein-API](https://github.com/Anil-matcha/Flux-Klein-API) — API guide and runnable examples for live FLUX 3 Klein image generation and editing through Muapi
 - [flux-3-video-api](https://github.com/SamurAIGPT/flux-3-video-api) — Python wrapper focused on FLUX 3 Text-to-Video and Image-to-Video
 - [flux-3-video-edit](https://github.com/Anil-matcha/flux-3-video-edit) — Python SDK for FLUX 3's instruction-driven video editing mode (coming soon)
 - [flux-3-video-upscaler](https://github.com/Anil-matcha/flux-3-video-upscaler) — Python SDK for upscaling FLUX 3 (or any) video output beyond its native resolution (coming soon)
@@ -104,11 +105,13 @@ FLUX 3 accepts **text and reference images** as input for image generation/editi
 
 | Variant | Modality | Status |
 |---|---|---|
-| FLUX 3 Text-to-Image | Image | Rolling out in the coming weeks |
-| FLUX 3 Image-to-Image | Image edit | Rolling out in the coming weeks |
+| FLUX 3 Text-to-Image (flagship) | Image | Coming soon; FLUX 3 Klein text-to-image is live on Muapi |
+| FLUX 3 Image-to-Image (flagship) | Image edit | Coming soon; FLUX 3 Klein editing is live on Muapi |
 | FLUX 3 Dev | Image (fast/low-cost) | Planned, open-weight later in 2026 |
-| FLUX 3 Text-to-Video | Video + audio | Early access |
-| FLUX 3 Image-to-Video | Video + audio | Early access |
+| FLUX 3 Text-to-Video | Video + audio | Live on Muapi |
+| FLUX 3 Image-to-Video | Video + audio | Live on Muapi |
+| FLUX 3 Klein Text-to-Image | Image | Live on Muapi |
+| FLUX 3 Klein Edit | Image edit | Live on Muapi |
 
 > **[See live status & get API access on MuAPI →](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)**
 
@@ -116,7 +119,7 @@ FLUX 3 accepts **text and reference images** as input for image generation/editi
 
 ## API Reference (MuAPI)
 
-The fastest way to access FLUX 3 via API — the moment each variant goes live — is through **[MuAPI](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)**, a unified generative-media API gateway. One API key activates every FLUX 3 endpoint automatically as Black Forest Labs opens general availability — no separate signup.
+Use **[Muapi](https://muapi.ai)** for the live FLUX 3 video routes and the separate FLUX 3 Klein generation and editing endpoints. One Muapi API key and the shared submit-and-poll flow cover these routes; check the family pages for current endpoint availability and pricing.
 
 **Get your API key:** [muapi.ai/flux-3](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)
 
@@ -500,12 +503,12 @@ mechanical whirring synchronized with the bloom.
 
 | Provider | FLUX 3 | API Key Required | Playground | Pricing |
 |---|---|---|---|---|
-| **[MuAPI](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)** | ✅ Early access tracking, 5 planned endpoints | Single key | ✅ Yes | TBD at launch |
+| **[Muapi](https://muapi.ai/flux-3)** | Live FLUX 3 video and FLUX 3 Klein image generation/editing routes | Single key | ✅ Yes | See the [FLUX 3](https://muapi.ai/flux-3) and [FLUX Klein](https://muapi.ai/flux-klein) pages |
 | Black Forest Labs (direct) | ✅ Early access (Video/Action), Image rolling out | Application required | Limited | Not published |
 | Fal.ai | Not yet available | — | — | — |
 | Replicate | Not yet available | — | — | — |
 
-> MuAPI provides the simplest path to production once FLUX 3 opens up — one API key, one base URL, unified billing across all 5 variants alongside every other model already on the platform (FLUX Kontext, Seedance 2, Veo 3, and 250+ more).
+> Muapi provides one API key and one base URL for its live FLUX 3 video and FLUX 3 Klein image routes, alongside the other models on the platform.
 
 ---
 
@@ -513,7 +516,8 @@ mechanical whirring synchronized with the bloom.
 
 - [FLUX 3 Official (Black Forest Labs)](https://bfl.ai/models/flux-3)
 - [Black Forest Labs Blog](https://bfl.ai/blog)
-- [MuAPI — FLUX 3 API Access & Early Access Tracking](https://muapi.ai/flux-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)
+- [Muapi — FLUX 3 API](https://muapi.ai/flux-3)
+- [Muapi — FLUX 3 Klein API](https://muapi.ai/flux-klein)
 - [FLUX Kontext (available today on MuAPI)](https://muapi.ai/flux-kontext?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)
 - [FLUX.2 Pro Playground](https://muapi.ai/playground/flux-2-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3)
 
